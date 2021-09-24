@@ -1,7 +1,6 @@
 voila
 ipywidgets
 matplotlib
-math
 numpy
 pandas
 scipy
